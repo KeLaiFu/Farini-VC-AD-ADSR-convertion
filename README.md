@@ -7,4 +7,4 @@ Original Kosmo module by Dave can be found here:
 https://github.com/DavesKosmoModules/Farini-VC-ADSR
 Cheers Dave!
 
-Current Status : UNTESTED
+Current Status : UNTESTED, PCBs currently on the way from JLC.
